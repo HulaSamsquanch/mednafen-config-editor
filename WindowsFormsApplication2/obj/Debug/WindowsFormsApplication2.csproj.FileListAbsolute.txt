@@ -1,0 +1,9 @@
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Mednafen Config Editor.exe.config
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Mednafen Config Editor.exe
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Mednafen Config Editor.pdb
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Mednafen Config Editor.exe
+C:\Users\eli\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Mednafen Config Editor.pdb
